@@ -23,8 +23,8 @@ Hey there! I'm Abhishek, a fourth-year Computer Science & Engineering student at
 
 ## Connect with Me:
 - **Email**: rapoabhi86@gmail.com
-- **LinkedIn**: [Abhishek on LinkedIn](https://www.linkedin.com/in/abhi1325/)
-- **GitHub**: [Abhishek on GitHub](https://github.com/abhi-shek-86)
+- **LinkedIn**: https://www.linkedin.com/in/abhi1325/
+- **GitHub**:   https://github.com/abhi-shek-86
 
 ## Feedback Welcome:
 I'm always open to learning and growing as a developer. If you have any feedback, suggestions, or just want to connect, feel free to reach out to me via email or on LinkedIn.
