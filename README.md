@@ -1,32 +1,30 @@
-<h1 align="center">Hi 👋, I'm ABHISHEK VASAMSETTI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+# Hi, I'm Abhishek
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-shek-86&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-shek-86" /> </p>
+## About Me
+Hey there! I'm Abhishek, a fourth-year Computer Science & Engineering student at KIET College. I’m passionate about solving problems through code and building innovative tech solutions. This README is my personal space to showcase the projects I've been working on, the skills I've developed, and what I aspire to achieve in the future. Let's explore!
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## Skills & Interests:
+- **Programming Languages**: Python, C, HTML, CSS, JavaScript (basic knowledge)
+- **Frameworks/Libraries**: Bootstrap, React
+- **Databases**: MySQL, MongoDB, 
+  
+- **Developer Tools**: Git/GitHub, VS Code, Anaconda, Google Colab
+- **Academic Coursework**: Data Structures, Operating Systems (Windows/Linux), Computer Networks, Object-Oriented Programming, DBMS
+- **Interests**: Problem-solving, Competitive Programming, Open-source Contributions, Participating in Hackathons
 
-- 🔭 I’m currently working on **Job Portal Website**
+## Projects:
 
-- 🌱 I’m currently learning **React Native**
+   
+1. **Expense Tracker** - A web-based app for tracking daily expenses. It allows users to input, categorize, and visualize their spending habits over time. Built with HTML, CSS, JavaScript, and Firebase.
 
-- 👨‍💻 All of my projects are available at [https://abhi1325.netlify.app/](https://abhi1325.netlify.app/)
+2. **Password Generator** - A Python-based password generator that creates strong and secure passwords. By combining letters, symbols, and numbers, it helps users safeguard their online accounts.
 
-- 💬 Ask me about **Python, Html, CSS, Javascript, MERN**
+3. **Snake Game** - A classic Snake game implemented in Python using the Pygame library. It features continuous movement, edge wrapping, and simple but addictive gameplay.
 
-- 📫 How to reach me **rapoabhi86@gmail.com**
+## Connect with Me:
+- **Email**: rapoabhi86@gmail.com
+- **LinkedIn**: [Abhishek on LinkedIn](https://www.linkedin.com/in/abhi1325/)
+- **GitHub**: [Abhishek on GitHub](https://github.com/abhi-shek-86)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhi1325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi1325" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_r_a_p_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_r_a_p_o" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-shek-86&show_icons=true&locale=en&layout=compact" alt="abhi-shek-86" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-shek-86&show_icons=true&locale=en" alt="abhi-shek-86" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-shek-86&" alt="abhi-shek-86" /></p>
+## Feedback Welcome:
+I'm always open to learning and growing as a developer. If you have any feedback, suggestions, or just want to connect, feel free to reach out to me via email or on LinkedIn.
