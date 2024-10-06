@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)](https://rishavchanda.io)
 # Hi, I'm Abhishek
 
 ## About Me
