@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)](https://rishavchanda.io)
 # Hi, I'm Abhishek
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 ## About Me
 Hey there! I'm Abhishek, a fourth-year Computer Science & Engineering student at KIET College. I’m passionate about solving problems through code and building innovative tech solutions. This README is my personal space to showcase the projects I've been working on, the skills I've developed, and what I aspire to achieve in the future. Let's explore!
 
