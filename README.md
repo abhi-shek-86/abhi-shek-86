@@ -8,6 +8,8 @@
 ---
 Hey there! I'm Abhishek, a fourth-year Computer Science & Engineering student at KIET College. I’m passionate about solving problems through code and building innovative tech solutions. This README is my personal space to showcase the projects I've been working on, the skills I've developed, and what I aspire to achieve in the future. Let's explore!
 
+**Important Notice**: My previous GitHub account has been deactivated, and I have created this new account to re-upload all my projects and files. Please bear with me as I update everything. Thank you for your understanding!
+
 ## Skills & Interests:
 - **Programming Languages**: Python, C, HTML, CSS, JavaScript (basic knowledge)
 - **Frameworks/Libraries**: Bootstrap, React
